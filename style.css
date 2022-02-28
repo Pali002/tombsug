@@ -9,8 +9,9 @@ h1 {
 h2 {
     background-color: black;
     color: white;
-    display: inline;
+    display: inline-block;
     border-radius: 2px;
+    text-decoration: underline;
 }
 
 .container{
